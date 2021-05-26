@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-16.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\sbbab\AppData\Local\Temp\surefire7642315685217223012\surefirebooter12077715137657152065.jar C:\Users\sbbab\AppData\Local\Temp\surefire7642315685217223012 2021-05-26T09-24-54_931-jvmRun1 surefire14264188389572269278tmp surefire_03435153747275826422tmp"/>
+    <property name="sun.java.command" value="C:\Users\sbbab\AppData\Local\Temp\surefire16474830644806430413\surefirebooter1206194132945468254.jar C:\Users\sbbab\AppData\Local\Temp\surefire16474830644806430413 2021-05-26T15-58-22_565-jvmRun1 surefire17460489688754012918tmp surefire_011737483694248587631tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\sbbab\IdeaProjects\taskqa7\statistics\target\test-classes;C:\Users\sbbab\IdeaProjects\taskqa7\statistics\target\classes;C:\Users\sbbab\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.2\junit-jupiter-5.7.2.jar;C:\Users\sbbab\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.2\junit-jupiter-api-5.7.2.jar;C:\Users\sbbab\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\sbbab\.m2\repository\org\junit\platform\junit-platform-commons\1.7.2\junit-platform-commons-1.7.2.jar;C:\Users\sbbab\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.2\junit-jupiter-engine-5.7.2.jar;C:\Users\sbbab\.m2\repository\org\junit\platform\junit-platform-engine\1.7.2\junit-platform-engine-1.7.2.jar;C:\Users\sbbab\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.0-M1\junit-jupiter-params-5.8.0-M1.jar;C:\Users\sbbab\.m2\repository\org\apiguardian\apiguardian-api\1.1.1\apiguardian-api-1.1.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\sbbab\AppData\Local\Temp\surefire7642315685217223012\surefirebooter12077715137657152065.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\sbbab\AppData\Local\Temp\surefire16474830644806430413\surefirebooter1206194132945468254.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="16.0.1+9-24"/>
@@ -56,10 +56,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="60.0"/>
   </properties>
-  <testcase name="averageSale" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0.016"/>
+  <testcase name="averageSale" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0.015"/>
   <testcase name="serviceSum" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0"/>
-  <testcase name="aboveAverageSale" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0"/>
+  <testcase name="aboveAverageSale" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0.001"/>
   <testcase name="belowAverageSale" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0"/>
-  <testcase name="maxSale" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0.001"/>
+  <testcase name="maxSale" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0"/>
   <testcase name="minSale" classname="ru.netology.statistics.SalesAnalyticsServiceTest" time="0"/>
 </testsuite>
